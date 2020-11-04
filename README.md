@@ -25,6 +25,7 @@ Imprime a estrutura da seguinte forma:
 A, B, C, D, E = Chaves. Caso, seja -1, significa que o espaço no vetor ainda não foi preenchido 
 
 
+
 ## HEAP
 Ao executar o arquivo aparece um menu com as seguintes opções:
 

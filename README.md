@@ -5,7 +5,7 @@ Desenvolvimento do Hash com tratamento externo e interno e Heap mínimo e máxim
 Ao executar o arquivo aparece um menu com as seguintes com as funções de dispersão.
 Após escolher a função aparece um novo menu com as seguintes opções:
 
-1- Buscar: função que busca um elemento na estrutura.
+1- Buscar: função que busca um elemento na estrutura.\n
 2- Inserir: função para digitar cada elemento para ser inserido na estrutura.
 3- Remover: função para remover um elemento da estrutura.
 5- Imprimir: função que imprime a estrutura na ordem.
